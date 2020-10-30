@@ -1,25 +1,11 @@
-<img src="https://www.canva.com/design/DAEMGiYhoXY/w9RNG12ZzR1JOjTGSZaluQ/view?utm_content=DAEMGiYhoXY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" width="30px"></h2>
+<img src="https://github.com/ViniciusGP/ViniciusGP/blob/main/Capa Github.png">
 
 <center>
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGP&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ViniciusGP&theme=buefy"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ViniciusGP&theme=buefy"/></td>        
     </tr>   
 </table>
 </center> 
 
-<!--
-**ViniciusGP/ViniciusGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
