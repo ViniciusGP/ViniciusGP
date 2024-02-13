@@ -1,5 +1,3 @@
-<img src="https://github.com/ViniciusGP/ViniciusGP/blob/main/Capa Github.png">
-
 <center>
 <table>
     <tr>
